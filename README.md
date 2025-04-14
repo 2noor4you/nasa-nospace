@@ -6,7 +6,8 @@ What if...NASA runs out of space?!
 **Project Idea:**  
 This project aims to develop a data visualization tool that interprets satellite data to monitor space debris. By presenting trends and predictive insights, it can assist NASA and other space agencies in strategic planning.
 
-**Technologies/Tools Used:**  
+**Technologies/Tools Used:**  ((This is so not true)) I have no idea if what I am doing is correct
+
 - Python  
 - JavaScript  
 - Git & GitHub  
