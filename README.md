@@ -21,3 +21,4 @@ This project aims to develop a data visualization tool that interprets satellite
 python main.py
 
 
+Is the writing above supposed to be real?
